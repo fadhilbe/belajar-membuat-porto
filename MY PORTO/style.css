@@ -1,0 +1,16 @@
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: rgb(116, 158, 52);
+}
+#projects{
+    padding-top: 2rem;
+    background-color: rgb(116, 158, 52);
+}
+footer{
+    background-color: rgb(199, 198, 198);
+    text-align: center;
+}
+section{
+    padding-top: 5rem;
+}
